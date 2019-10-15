@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasacionDatos</string>
+    <string name="editText1">Ejemplo</string>
+    <string name="textViewPaso">PASO DE DATOS</string>
+    <string name="btnArr">Arrancar pantalla</string>
+    <string name="btnPas">Pasar Datos</string>
+    <string name="textoPredefinido">Introduce datos</string>
+</resources>

@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.1"
-        android:textSize="40sp"
+        android:textSize="16sp"
         android:id="@+id/textoCapturar"
         android:hint="@string/textoPredefinido"
         android:drawableLeft="@android:drawable/btn_star"

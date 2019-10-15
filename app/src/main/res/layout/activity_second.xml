@@ -15,11 +15,12 @@
         android:textSize="40sp"/>
 
     <TextView
+        android:id="@+id/textoRecuperado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
         android:layout_marginTop="30dp"
-        android:id="@+id/textoRecuperado"/>
+        android:textSize="20sp" />
+
 
 
 </LinearLayout>

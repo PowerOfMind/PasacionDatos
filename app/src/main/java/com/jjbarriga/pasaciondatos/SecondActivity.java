@@ -20,7 +20,8 @@ public class SecondActivity extends AppCompatActivity {
     private void recuperarDatos() {
         if (getIntent().getExtras()!= null){
             String palabraRecuperada = getIntent().getExtras().get(MainActivity.TAG_1).toString();
-            textoRecuperar.setText(palabraRecuperada);
+            textoRecuperar.setText("Su nombre es: "+palabraRecuperada+". Hasta pronto!");
+
         }
     }
 

@@ -5,4 +5,10 @@
     <string name="btnArr">Arrancar pantalla</string>
     <string name="btnPas">Pasar Datos</string>
     <string name="textoPredefinido">Introduce datos</string>
+    <string name="Nombre">Introduzca su nombre</string>
+    <string name="tlfno">Introduzca su telefono</string>
+    <string name="Enhorabuena">Enhorabuena</string>
+    <string name="nameRecu">tu nombre es:</string>
+    <string name="numRecu">tu numero es</string>
+
 </resources>
